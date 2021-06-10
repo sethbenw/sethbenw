@@ -1,4 +1,4 @@
-## Hello there, I'm Seth 👋
+## Hey there, I'm Seth 👋
 
 ### I'm a Front-End Web Developer,Graphic Designer, and All-Around Tech Superhero!
 
