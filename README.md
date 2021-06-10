@@ -1,4 +1,4 @@
-## Hi there, I'm Seth 👋
+## Hello there, I'm Seth 👋
 
 ### I'm a Front-End Web Developer,Graphic Designer, and All-Around Tech Superhero!
 
@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="64px" src="https://i.imgur.com/TBzP4KS.png" />][Resume Website]
-[<img align="left" alt="LinkedIn" width="36px" src="https://i.imgur.com/TBzP4KS.png" />][Linkedin]
+[<img align="left" alt="Portfolio" width="64px" src="https://i.imgur.com/LjDq7YY.png" />][Resume Website]
+[<img align="left" alt="LinkedIn" width="64px" src="https://i.imgur.com/TBzP4KS.png" />][Linkedin]
 
 <br />
 <br />
