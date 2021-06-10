@@ -6,7 +6,7 @@
 - 🎓  I have my B.S. from Syracuse University in Information Management & Technology
 - 🎯  2021 Goals: Bring all my personal projects into Vue.js
 - 😁  Pronouns: He/Him
-- 💥  Fun fact: I love to read comic books and am the longest-running moderator on reddit's r/Marvel subreddit
+- 💥  Fun fact: I love to read comic books and am the longest-running moderator on Reddit's [r/Marvel] subreddit
 
 ### Connect with me:
 
@@ -45,6 +45,7 @@
 <br />
 <br />
 
+[r/Marvel]: https://www.reddit.com/r/marvel
 [Resume Website]: https://www.sethbenw.com
 [Linkedin]: https://www.linkedin.com/in/sethbenw/
 [YBF Walks & Care Website]: https://ybfcare.github.io/
