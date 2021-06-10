@@ -51,7 +51,7 @@
 [r/Marvel]: https://www.reddit.com/r/marvel
 [Resume Website]: https://www.sethbenw.com
 [Linkedin]: https://www.linkedin.com/in/sethbenw/
-[YBF Walks & Care Website]: https://ybfcare.github.io/
+[YBF Walks & Care]: https://ybfcare.github.io/
 [BXL Property Management LLC]: https://www.bxlmgmt.com/
 [/ottos_army]: https://github.com/sethbenw/ottos_army
 [ktpcuse.com]: https://github.com/nmmoffit-su/OrangeDirections
