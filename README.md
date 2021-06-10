@@ -1,16 +1,52 @@
-### Hi there 👋
+## Hi there, I'm Seth 👋
 
-<!--
-**sethbenw/sethbenw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Front-End Web Developer,Graphic Designer, and All-Around Tech Superhero!
 
-Here are some ideas to get you started:
+- 🔎  I’m currently learning as much as I can about the Vue.js framework!
+- 🎓  I have my B.S. from Syracuse University in Information Management & Technology
+- 🎯  2021 Goals: Bring all my personal projects into Vue.js
+- 😁  Pronouns: He/Him
+- 💥  Fun fact: I love to read comic books and am the longest-running moderator on reddit's r/Marvel subreddit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Portfolio" width="64px" src="https://i.imgur.com/TBzP4KS.png" />][Resume Website]
+[<img align="left" alt="LinkedIn" width="36px" src="https://i.imgur.com/TBzP4KS.png" />][Linkedin]
+
+<br />
+<br />
+
+## Projects:
+
+### [Resume Website]
+- I created this Single-Page Application using Vue.js and Vue Router
+- Check out my up-to-date resume!
+
+### [YBF Walks & Care Website]
+- Click that link to see the website I built for my sister's pet-care company
+
+### [BXL Property Management LLC]
+- A preliminary website for BXL Property Management startup
+
+### Extracurricular Work
+- Check out [/ottos_army] for some of the code I helped produce for the Otto's Army official website while studying at Syracuse University
+- During the founding of Kappa Theta Pi, I helped design and deploy [ktpcuse.com] for the first time
+
+## Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-512.png" />
+<img align="left" alt="HTML5" width="26px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />
+<img align="left" alt="CSS3" width="26px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
+<img align="left" alt="Git" width="26px" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" />
+<img align="left" alt="Vue.js" width= "26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/367_Vuejs-512.png" />
+
+<br />
+<br />
+
+[Resume Website]: https://www.sethbenw.com
+[Linkedin]: https://www.linkedin.com/in/sethbenw/
+[YBF Walks & Care Website]: https://ybfcare.github.io/
+[BXL Property Management LLC]: https://www.bxlmgmt.com/
+[/ottos_army]: https://github.com/sethbenw/ottos_army
+[ktpcuse.com]: https://github.com/nmmoffit-su/OrangeDirections
