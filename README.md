@@ -2,9 +2,9 @@
 
 ### I'm a Web Developer, Graphic Designer, and All-Around Tech Superhero!
 
-- 🔎  I’m currently learning as much as I can about the Vue.js framework
+- 🔎  I’m currently learning as much as I can about the Front End Developement
 - 🎓  I have my B.S. from Syracuse University in Information Management & Technology
-- 🎯  2021 Goals: Bring all my personal projects into Vue.js
+- 🎯  2024 Goals: Become Jira Administrator certified
 - 😁  Pronouns: He/Him
 - 💥  Fun fact: I love to read comic books and am the longest-running moderator on Reddit's [r/Marvel] subreddit
 
